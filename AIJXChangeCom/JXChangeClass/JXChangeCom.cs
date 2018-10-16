@@ -47,7 +47,7 @@ namespace AIJXChangeCom.JXChangeClass
             request = new AcctHistSrchRequest();
 			srchMsgRqHdr = new SrchMsgRqHdr_CType();
             this.jxChangeComModel = jxChangeComModel;            
-        }
+        
 
 		/// <summary>
 		/// Added by Invezza Team 
