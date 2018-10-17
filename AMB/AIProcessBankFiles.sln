@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIProcessBankFiles", "AIProcessBankFiles\AIProcessBankFiles.csproj", "{7BD129BB-DE54-4257-9DE7-4D462AB0864D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIJXChangeCom", "..\AIJXChangeCom\AIJXChangeCom.csproj", "{555A3C65-52BF-4702-B026-688584CDBEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD129BB-DE54-4257-9DE7-4D462AB0864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD129BB-DE54-4257-9DE7-4D462AB0864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD129BB-DE54-4257-9DE7-4D462AB0864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD129BB-DE54-4257-9DE7-4D462AB0864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555A3C65-52BF-4702-B026-688584CDBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555A3C65-52BF-4702-B026-688584CDBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555A3C65-52BF-4702-B026-688584CDBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555A3C65-52BF-4702-B026-688584CDBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324C891B-36B1-4331-822F-CD577BD4CF14}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

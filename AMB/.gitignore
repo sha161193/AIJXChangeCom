@@ -1,0 +1,68 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio temp something
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# SQL Server files
+**/App_Data/*.mdf
+**/App_Data/*.ldf
+**/App_Data/*.sdf
+
+# svn
+.svn
+
